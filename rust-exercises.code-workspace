@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "hello_world",
+			"path": "./exercises/hello_world"
+		},
+		{
+			"name": "hello_cargo",
+			"path": "./exercises/hello_cargo"
+		},
+		{
+			"name": "guessing_game",
+			"path": "./exercises/guessing_game",
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"exercises": true
+		}
+	}
+}
